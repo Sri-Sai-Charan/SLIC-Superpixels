@@ -12,14 +12,15 @@ Reference Paper: http://www.kev-smith.com/papers/SMITH_TPAMI12.pdf
 # Results
 
 ![image](results/k1024m2.png)
-
+<br>
 Parameters: K = 1024, m = 2
-
+<br>
 ![image](results/k1024m10.png)
-
+<br>
 Parameters: K = 1024, m = 10
-
+<br>
 ![image](results/k1024m40.png)
+<br>
 Parameters: K = 1024, m = 40
 
 # Usage
